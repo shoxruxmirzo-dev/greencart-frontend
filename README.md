@@ -1,4 +1,4 @@
-## Grocery Delivery E-Commerce SV (CSR, SPA) Using React v0
+## Grocery Delivery E-Commerce SV (CSR, SPA) v0
 
 Features:
 
@@ -14,6 +14,7 @@ Features:
 Live Preview Link:
 
 1. https://greencart-gs.vercel.app/
+2. https://greencart-frontend-two.vercel.app/
 
 Figma Design Link:
 
@@ -42,6 +43,11 @@ Entities:
 5. Address
 6. Order
 
+Fixed Modals:
+
+1. Navbar/Mobile Menu
+   Login(button) - open sigin/signup
+
 Pages:
 
 1. / - Home Page
@@ -51,11 +57,6 @@ Pages:
 5. /cart - Cart
 6. /add-address - AddAddress
 7. /my-orders - MyOrders
-
-Fixed Modals:
-
-1. Navbar/Mobile Menu
-   Login(button) - open sigin/signup
 
 Private Admin Pages
 
